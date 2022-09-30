@@ -2,6 +2,7 @@
 
 class HolaMon
 {
+    //Soy un conflicto
     private $a =' Hola Mundo';
     public function getHolaMon()
     {
