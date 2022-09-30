@@ -12,7 +12,7 @@ class HolaMon
 
 //Mas conflictos
 $bar = new HolaMon();
-
+// dos
 echo " {$bar->getHolaMon()}";
 
 ?>
