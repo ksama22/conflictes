@@ -12,7 +12,7 @@ class HolaMon
 
 
 $bar = new HolaMon();
-
+// dos
 echo " {$bar->getHolaMon()}";
 
 ?>
