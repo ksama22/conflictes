@@ -13,6 +13,6 @@ class HolaMon
 //Mas conflictos
 $bar = new HolaMon();
 
-echo " {$bar->getHolaMon()}";
+echo " {$bar->getHolaMon()} pepe";
 
 ?>
