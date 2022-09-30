@@ -2,7 +2,7 @@
 
 class HolaMon
 {
-    //Soy un conflicto
+    //Soy un conflicto dos
     private $a =' Hola Mundo';
     public function getHolaMon()
     {
